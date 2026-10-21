@@ -1,0 +1,35 @@
+Ghi chú:  file này mình sẽ dùng ghi chú lại qúa trình học tư duy lập trình của Bùi Huu Dang
+
+Cách học lập trình trong thời buổi AI: 
+ - Văn ôn võ luyện -  20 lý thuyết vs 80 thực hành , nắm vững hiểu rõ lý thuyết trước khi bay vào thực hành chủ động  
+ - Thực hành độc lập đừng copy paste, hãy cố gắng đọc hiểu, tắt video sample đi tự làm tự debug trước khi hỏi AI
+ - Tư duy tự tạo ra vấn đề trong cs để giải quyết nó bằng công nghệ (vs hệ thống nhận diện bệnh lá )
+ - Tận dụng AI như 1 Mentor_ hỏi để học chứ không phải copy code
+
+
+
+
+
+
+
++ Buổi01:
+
+
+
+
++ Buổi02:
+
+
+
+
+
+
++ Buổi03:
+
+
+
+
++ Buổi04:
+
+
+
